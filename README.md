@@ -79,5 +79,6 @@ idxmax()
 2) find the game with the lowest minimum total sales ratio in the dataset?
 
 cut()
+
 1)categorize global sales into different ranks such as 'low', 'medium', 'high', and 'very high' based on specific sales ranges?
 
